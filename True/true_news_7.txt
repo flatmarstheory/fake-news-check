@@ -82,7 +82,210 @@ Tikender Singh Panwar was once directly elected deputy mayor of Shimla. He was l
 Support The Wire
 ₹2400 once
 The founding premise of The Wire is this: if good journalism is to survive and thrive, it can only do so by being both editorially and financially independent.This means relying principally on contributions from readers and concerned citizens who have no interest other than to sustain a space for quality journalism. For any query or help write to us at support@thewire.in
-I would like to contribute
+I would like to contrNewslaundry
+
+     
+SUBSCRIBE
+
+Video
+Report
+Podcast
+Subscriber Only
+Analysis
+FoE Con 2023NEW
+हिन्दी
+Subscribe
+Sena
+More
+REPORT
+India blocked 55,607 websites in seven years. Here’s everything you need to know
+A report by SFLC.in explains what was blocked and why, the legality of these orders, and why the public has a right to information.
+ByAditi Agrawal17 Jan, 2023   bookmark_add
+India blocked 55,607 websites in seven years. Here’s everything you need to know
+Shambhavi Thakur
+whatsapp
+copy
+India blocked 55,607 URLs between January 2015 and September 2022, according to a January 12 report by the Software Freedom Law Centre, India. Of these, 26,474 URLs, or 47.6 percent, were blocked under section 69A of the Information Technology Act, 46.8 percent for copyright infringement, and the remaining on charges including obscenity, pornography, and material related to child sexual abuse.
+
+subscription-appeal-image
+Support Independent Media
+The media must be free and fair, uninfluenced by corporate or state interests. That's why you, the public, need to pay to keep news free.
+
+
+Subscribe Now
+Courtesy: SFLC.in
+Courtesy: SFLC.in
+
+Why were these URLs blocked?
+
+1. The blockings under section 69A were in the interest of India’s sovereignty and integrity, defence, security of the state, friendly relations with foreign states, public order, and to prevent cognisable offences relating to these grounds. 
+
+The ministry of electronics and information technology blocked 26,379 URLs, while the ministry of information and broadcasting blocked 94 (mainly YouTube channels) via the IT Rules. 
+
+The I&B ministry’s reasons were more specific, such as spreading disinformation and propaganda, links to organisations banned under the UAPA with potential to incite “communal disharmony”, and propaganda undermining the democratic process in upcoming elections. It also blocked URLS for disseminating fake news related to the Indian army, Jammu and Kashmir, and the 2021 death of General Bipin Rawat.
+
+2. With respect to the 26,024 URLS blocked for copyright infringement, most orders came from courts. Single court orders can lead to large-scale blocking in cases where URLs are often mirrors of each other and engage in large-scale copyright infringement. These orders can be issued under India’s Copyright Act, 1957 or fall within the purview of the United State’s Digital Millennium Copyright Act.  
+
+Blocking under the US law happens because most intermediaries – like Google, Meta (which owns Facebook, Instagram and WhatsApp) and Twitter – are headquartered in the US. India has been a signatory to the Berne Convention since 1928 and, in 2018, acceded to the World Intellectual Property’s Organisation’s Copyright Treaty. 
+
+SFLC.in said “rampant blocking” happens in India under the DMCA, so the number of blocks for copyright infringement might not be a true representation of the impact of such blocking.
+
+3. A total of 1,065 URLs were blocked for obscenity, child sexual abuse material and pornography. The IT ministry blocked 857 of these after an order by the Uttarakhand High Court in 2018, while 238 were blocked by the additional chief metropolitan magistrate of Mumbai in 2016.
+
+4. Other reasons include defamation, public disorder, law and order, and contempt of court.
+
+
+
+Courtesy: SFLC.in
+Courtesy: SFLC.in
+
+What techniques are used to block content?
+
+Techniques for blocking websites in India include DNS tampering, HTTP Blocking, TCP/IP Blocking, TLS-SNI Blocking, and QUIC Network Blocking.
+
+Under what law can the government block content? 
+
+There are four main pieces of legislation that allow the Indian government to block content online.
+
+1. The IT ministry can block content via section 69A of the Blocking Rules, 2009 under the IT Act. These orders are meant to remain confidential under rule 16.
+
+2. The I&B ministry can block content through part III of the IT Rules, 2021. These orders are not confidential in nature. There is some ambiguity as to whether the I&B ministry actually has the power to issue blocking orders at present, partly because of stays imposed on certain sections of the IT Rules by the Bombay and Madras High Courts.
+
+Under the Blocking Rules and the IT Rules, content can be blocked in the interest of India’s sovereignty and integrity, defence, security of the state, friendly relations with foreign states, public order, and to prevent incitement of commission of any cognisable offence relating to these grounds.
+
+They also permit the respective ministries to issue emergency blocking orders.
+
+3. Section 79 of the IT Act, under which the IT Rules were notified, allows the government to issue notices to take down violative content. When such an order comes from a judicial body or competent government authority, it has to be obeyed under the Shreya Singhal judgement, but not otherwise.
+
+4. The Copyright Act, 1957 and the US’s Digital Millennium Copyright Act, 1998 are used to block content that violates intellectual property rights.
+
+What are the main problems with section 69A of the Blocking Rules?
+
+Over 47 percent of blocking orders were issued under section 69A but given the confidentiality clause under rule 16, the process is opaque. The aggrieved person is not allowed to challenge the blocking order. SFLC pointed out that such a blanket confidentiality clause is ultra vires in nature as it goes beyond the mandate of section 69A as it was interpreted by the Supreme Court in the Shreya Singhal judgement. 
+
+It also lacks checks and balances, since the review committee formed under section 69A consists only of members from the executive, or central government. Additionally, an RTI response from August 2022 reveals that since the Blocking Rules were passed in 2009, the review committee has not unblocked a single piece of content, implying that blocks are forever with no scope for correction.
+
+But didn’t the Supreme Court uphold section 69A?
+
+Yes, it did. It said section 69A, unlike 66A which was struck down, has “several safeguards” like only allowing the central government to pass such blocking orders, that the necessity of such orders is determined by some reasons laid out in article 19(2) of the Constitution, and getting reasons in writing so they can be challenged via writ petition under article 226 of the Constitution.
+
+But, as SFLC.in noted, the confidentiality clause renders two of these safeguards redundant. The fact that only four writ petitions – including this one by Twitter – have been filed thus far is a testament to the limitations of these safeguards. 
+
+Can’t all intermediaries just say no, like Twitter did, and go to court?
+
+It’s not that easy. Intermediaries are required under law to block a website if directed to do so by a court or the government. Otherwise, they may lose their “safe harbour” – protection from liability for third-party content on their platforms. If an intermediary does not obey a Section 69A blocking order, its officials may face imprisonment of up to seven years along with a fine. 
+
+On the other hand, if intermediaries, including TSPs such as Airtel and Jio, block websites without orders, they could be held guilty of violating section 43 of the IT Act which says that causing disruption or denial of access to any person authorised to access any computer network amounts to an offence and attracts liability in terms of penalty and compensation.
+
+Why SFLC.in’s data might be incomplete
+
+SLFC.in noted that the number of URLs blocked is not an exact number, since the government of India usually denies information about blocking online content citing rule 16, the confidentiality clause of section 69A of the Blocking Rules of the IT Act.
+
+There’s a discrepancy in numbers even in answers given by the respective ministries in Parliament. For example, in March 2020, the IT ministry told the Lok Sabha that 3,635 URLs were blocked in 2019. Six months later, that number changed to 3,655.
+
+Similarly, in 2018, the IT ministry informed the Lok Sabha that 1,329 URLs were blocked in 2017.  In 2019, it said 1,385 URLs had been blocked in 2017. Even more confusingly, the same ministry said in December 2018 that it had blocked 2,388 URLs that year until December 31 – even though the answer was given on December 12.
+
+And this data does not demonstrate the extent of the internet that is blocked by the government. For instance, blocking the domain www.twitter.com means blocking access to almost 250 million accounts with all their tweets, likes and media content. Blocking www.twitter.com/newslaundry would block all tweets posted and retweeted by Newslaundry over the years. Blocking access to one particular tweet would block only that single URL while potentially retaining replies to that tweet. 
+
+Despite the massive difference in the scale of blocking in each of these three instances, the IT ministry would count each instance as only one URL.
+
+The passing of the IT Rules 2021 – under which the I&B ministry can also issue blocking orders to publishers – made all this even more confusing. The I&B ministry releases details and reach of YouTube channels that it’s blocked but when this data is provided in Parliament, it’s given by the IT ministry – and it’s not clear whether this data includes the I&B ministry’s blocking orders. Newslaundry has had multiple conversations with officials from both ministries but there was no clarity on this.
+
+Limitations of the RTI Act
+
+Through RTI requests, SFLC.in obtained information about the number of websites blocked and the number of meetings held by the section 69A review committee in 2021. 
+
+The department of telecommunications provided a list of websites blocked through court orders while the I&B ministry directed SFLC.in to a website where blocking information is put up. The IT ministry did not give information on review committee meetings beyond the number of meetings held in 2021 citing Section 8 of the RTI Act and Rule 16 of the Blocking Rules. 
+
+SFLC.in had also asked for copies of blocking orders and whether websites blocked included the VLC player website, but this information was denied by the IT ministry under rule 16 of the Blocking Rules and section 8 of the RTI Act.
+
+What does SFLC.in recommend?
+
+1. A blocking order must be sent to the originator of the content to give them a fair hearing. The originator must be allowed to access the complaint that led to the passage of the blocking order.
+
+2. Blocking orders must be made public. This is a necessary safeguard as interpreted by the Supreme Court in the Shreya Singhal judgement.
+
+3. The RTI Act through section 22 should override the confidentiality clause prescribed in rule 16 of the Blocking Rules. That way, orders will be available through RTI requests.
+
+4. The blocking order should be published on the corresponding website so visitors to the website, whose right to information is violated by blocking access to content, have an “effective opportunity” to challenge the order.
+
+5. The review committee, which only has members from the executive, must include a judicial member and an independent member for purposes of transparency, accountability and oversight. Or a different organ of the state, that includes some form of judicial oversight, should be responsible for reviewing blocking orders.
+
+6. Instead of blocking entire websites, only the offensive URLs on the website should be blocked. For this, a standard format should be introduced for the designated authority and review committee to follow.
+
+7. Finally, the review committee must consider whether blocking is a proportionate and necessary response, and the impact that a denial of information will have on the public.
+
+Update at 2 pm, Jan 18: The report by SFLC.in had errors that were reproduced in this story. The total URLs blocked is 55,607, not 55,580. 26,474 URLs were blocked under section 69A, not 26,447 URLs, of which the IT ministry blocked 26,379, not 26,352. This has been corrected in the story, as well as in the headline.
+
+Also see
+
+India has blocked 78 YouTube news channels, 560 URLs since 2021: I&B minister
+
+How does the Indian government ‘block’ online content?
+NL Digest
+A weekly guide to the best of our stories from our editors and reporters. Note: Skip if you're a subscriber. All subscribers get a weekly, subscriber-only newsletter by default.
+
+Type your email
+SIGN UP
+TAGS
+Digital Media Rules
+Comments
+
+Enter feedback / question / suggestion
+lock
+We take comments from subscribers only!  Subscribe now to post comments! 
+Already a subscriber?  Login
+
+Vijay
+2 months ago
+maybe they can atleast give a count by social media and popular websites. This is a difficult thing for the url's to be public as folks could then find ways to override them but also in a way if some critical piece wants to be hidden those can be exposed. A committe consisting of folks other then the executive can help decide that as pointed.
+
+0Reply
+You may also like
+Exclusive: Madhya Pradesh hired people close to RSS for govt jobs, skipping actual applicants 
+Exclusive: Madhya Pradesh hired people close to RSS for govt jobs, skipping actual applicants
+Prateek Goyal
+Do you earn up to Rs 7 lakh? You might still be better off under the old tax regime
+Do you earn up to Rs 7 lakh? You might still be better off under the old tax regime
+Vivek Kaul
+‘Dire imposition on press freedom’: Global media group on ‘press blackouts’ in Punjab during Amritpal search
+Global media group condemns ‘press blackouts’ in Punjab during Amritpal search
+NL Team
+About
+About Us
+NL Explained
+Meet the team
+Contact Us
+Careers
+Privacy Policy
+Terms of Services
+Subscription
+Subscribe
+Account Details
+NL Legal Fund
+Subscriber FAQ
+Paywall Stories
+Podcast Letters
+Student Subscription
+Noteworthy
+न्यूज़लॉन्ड्री हिन्दी
+Newsletters
+NL Store
+NL Recess
+NL Interviews
+The Media Rumble
+Books
+Follow
+rss
+apple podcast
+telegram
+linkedin
+spotify
+linkedin
+Download the Newslaundry app
+google play store button
+app store button
+© Newslaundry Media Private Limited. All Rights Reserved.ibute
 Once
 Monthly
 Yearly

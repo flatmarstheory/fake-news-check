@@ -36,7 +36,205 @@ The founding premise of The Wire is this: if good journalism is to survive and t
 I would like to contribute
 Once
 Monthly
-Yearly
+YearlyNewslaundry
+
+     
+SUBSCRIBE
+
+Video
+Report
+Podcast
+Subscriber Only
+Analysis
+FoE Con 2023NEW
+हिन्दी
+Subscribe
+Sena
+More
+REPORT
+Concerns on child safety, KYC, cyber-bullying: IT ministry’s public consultation on online gaming
+Rajeev Chandrasekhar met with stakeholders on Jan 11 for the first public consultation on India’s draft gaming policy.
+ByAditi Agrawal12 Jan, 2023   bookmark_add
+Concerns on child safety, KYC, cyber-bullying: IT ministry’s public consultation on online gaming
+Gobindh VB
+whatsapp
+copy
+Concerns around protecting children online, combating harassment, and implementing KYC norms were top issues discussed during a consultation held yesterday in Delhi by the ministry of electronics and information technology. 
+
+The ministry met with teachers, students, psychologists, psychiatrists, mental health groups, gamers, esports players and professional poker players to discuss issues related to online gaming. This is its first public consultation on the draft online gaming policy – amendments to the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021 – since it was released on January 2. 
+
+The deadline for the consultation has been extended from January 17 to January 25, Newslaundry had learned.
+
+About 40 stakeholders were present yesterday, including representatives from the Electronics Sports Federation of India, eSports Welfare Association, National Commission for Protection of Child Rights, and the principal of Maharaja Agrasen Model School in Delhi. The consultation was chaired by Rajeev Chandrasekhar, minister of state for IT.
+
+Newslaundry spoke to eight sources who attended the meeting to find out what happened. 
+
+It is understood that Chandrasekhar clarified that the proposed amendments will only focus on real money games, not online gaming in general. He said not every concern related to online gaming can be brought within the ambit of the Rules because of the limitations of the Information Technology Act. 
+
+This is because under the current formulation, the IT Rules can only prescribe the procedure and safeguards to block content online under section 69A, and the conditions that intermediaries must satisfy to avail safe harbour, meaning protection from liability arising from third-party content. 
+
+Impact on children
+
+After the meeting, Nimisha Srivastava, executive director of the Counsel to Secure Justice, told Newslaundry: “My concern is that, even without real money involvement, online games have an impact on children. It remains to be seen how it would be included in law, if not in this set of Rules.”
+
+Chandrasekhar had said yesterday that issues around online harm would be brought under the ambit of the upcoming Digital India Act – something he has repeatedly said at previous interactions and public consultations attended by Newslaundry. These “online harms” include cyber-bullying and doxxing.
+
+Multiple stakeholders questioned the ministry about whether the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021 address issues of psychological impact, addiction, cyber-bullying and sexual harassment. At least one stakeholder mentioned that internet gaming disorder is a recognised disorder.
+
+A child rights body in attendance at the meeting said that children can still access banned games through VPNs, and this needs to be addressed. They also asked whether, for every change made to an already certified game, the self-regulatory body would have to issue fresh certification.
+
+A stakeholder suggested setting up a database or website such as Common Sense Media, where parents and children can rate online games with more granularity than allowed by typical age-rating systems. Common Sense Media is a website where parents and children can both comment on what specifically might be objectionable or worrisome in a movie and what is not, therefore allowing parents and guardians to make more informed decisions on what content their children are allowed to watch.
+
+Interestingly, age-gating – which is verifying whether a user is above or below a certain age before permitting them to access an online service – did not feature in today’s consultation, even though it’s usually a permanent feature in any industry-led consultation.
+
+At the meeting, Srivastava said she submitted that rule 4B – requirements for self-regulatory bodies – “needs to be more well-defined”.
+
+“The self-regulatory body should have a child protection policy in its regulatory framework or it should be mandated via the Rules,” she told Newslaundry. “The minister of state said the government does not want to get into the particulars of the framework and that the standards will be set by the self-regulatory body.”
+
+A school student, who participated in the consultation, asked Chandrasekhar whether Indian law, like Chinese law, could impose restrictions on the number of hours children spend on video games and online games. In response, Newslaundry was told, Chandrasekhar light-heartedly asked the student to send the recommendation in writing so he could later prove that a young person had raised such a request.
+
+But online gaming is not an undisputed bad. A stakeholder highlighted how online gaming became more common during the pandemic as it offers stress relief, an outlet for people, and a way to combat loneliness. A teacher also highlighted how she uses gaming in education as it helps develop analytical skills.
+
+Players raise concerns
+
+At the consultation, India’s first woman to play professional poker, Muskan Sethi, pointed out that despite her being felicitated by the central government for playing poker, different states treat poker differently. Chandrasekhar expressed his sympathy with her but said he could not do anything about it since gambling is a state subject, not a union subject.
+
+Also in attendance was esports player Moin Ejaz, who is the captain of India’s Dota 2 team that won a bronze in the Commonwealth Games last year. Dota 2 is a multiplayer online battle arena game in which esports players complete globally. Ejaz raised concerns about how esports federations, which thus far have not been formally recognised by the union sports ministry, dictate the tournaments in which Indian esports players can or cannot compete. 
+
+Ejaz was talking about the Esports Federation of India. Shivani Jha, executive director of the ePlayers Welfare Association, of which Ejaz is also a member, told Newslaundry that Chandrasekhar “listened to the issues around self-acclaimed government bodies and esports federations”.
+
+“In the past, such entities have banned a Commonwealth player from playing tournaments,” Jha said. “He assured [us] that in the future, this will not happen.”
+
+At one point, at least two stakeholders were involved in a discussion on whether players involved in real money games should be required to submit proof of income. This would allow the online gaming intermediary to then set up spending limits for the user so that they don’t spend beyond what they can afford – similar to how a credit limit is set up while issuing a credit card. 
+
+A similar recommendation was also made in the Law Commission’s 2018 report on gambling and sports betting in India. The Commission had recommended that lower income groups should not be allowed to stake high amounts in “proper gambling”. 
+
+What is included and what is not
+
+There were opposing views on whether the definition of an “online game” was too broad or too narrow. Some stakeholders, including a psychiatry professor and a women’s rights activist, said that the definition is too narrow and should be widened to include all kinds of online gaming. 
+
+But others, including a business professor and an esports event organiser, said the definition should be much narrower. At least one stakeholder suggested that the Rules should use the term “iGaming” instead of “online gaming” to refer to real money games in order to narrow its definition, which is the global norm. Real money games are, after all, the intended target of the Rules.
+
+Under the proposed definition in the Rules, an online game is any online game where a user makes a deposit with the expectation of earning winnings. Both “deposit” and “winnings” include the phrase “in cash or in kind”. So, this includes all kinds of online games within the definition, not just real money games. For example, suppose you watch an ad, through which a gaming platform may earn money, to play a game. Is that a “deposit”? And is getting to the next level a “winning”?
+
+Newslaundry learned that there was also discussion about whether “in kind” could also include cryptocurrency and NFTs. Chandrasekhar, deadpan, said yes, and you will go to jail.
+
+There were multiple questions about what kind of games are included within the definition of “online games” as defined in the proposed amendments. Significant confusion continues to exist about what wagering means, and what kind of wagering, if any, is allowed. Some stakeholders raised concerns but it is understood that the minister wanted to focus on online gaming in general. Rummy and fantasy sports were not mentioned at all.
+
+Jha said Chandrasekhar made it clear that the proposed amendments are meant to make the IT Rules inclusive and future-proof. This way, as new and upcoming formats of online gaming emerge, the Rules will not have to be frequently amended.
+
+Aditya Roongta, a lawyer and founder of Digital Katha, which develops mobile gaming apps, told Newslaundry, “I think this is a great initiative by the government to involve stakeholders in an active manner. However, I think they could have communicated their primary intent of regulating real money games in a better way. This would have resulted in the discussion being more focused and would have also better achieved the intended goal.” 
+
+Is KYC feasible?
+
+A teacher in attendance said a framework needs to be instituted so that it isn’t easy for young children to spend money while gaming online. Chandrasekhar pointed out that gamers can play with real money only if they are adults, and this is where KYC standards, which establish a customer’s identity, would help.
+
+It is understood that a student asked whether esports tournaments conducted by colleges, where participants pay an entry fee, would be included within the definition of “online game”. The student also asked if they would be required to carry out KYC procedures as proposed in the Rules.
+
+Chandrasekhar said that for any kind of online financial transaction in general, even outside of online gaming, KYC or e-KYC is required – and there’s no escaping that. So, any online game that involves any monetary transaction would be covered by the proposed Rules, he said.
+
+Roongta does not agree with Chandrasekhar.
+
+“This isn’t legally correct,” he told Newslaundry. “There is no requirement of KYC online transactions unless it is an entity regulated by RBI or SEBI or the PMLA. You can order anything – food, groceries or clothes, including as cash on delivery – and there’s no requirement of a KYC. If the draft Rules bring all games in its ambit, then expanding the scope of KYC to them will be an unnecessary reach.”
+
+On a lighter note, Chandrasekhar said the government will not go after college students for organising small tournaments. Wagering during Diwali is also illegal, he joked, but the government does not prosecute those involved.
+
+The draft gaming policy indicates that online gaming intermediaries will be required to carry out KYC “for registration of the account of a user”. Multiple sources told Newslaundry that this does not make it clear whether KYC has to be done even if a player is not engaging in real money gaming. Most real money gaming platforms allow for free play as well. Also, they asked whether this has to be done at the time of creating a user account, or when a player deposits money in their account to pay to play, or when they withdraw money from their account after winning. 
+
+A stakeholder also recommended that the warnings displayed, as per the proposed Rules, when a player spends “beyond a reasonable duration for a gaming session” stay on the screen for at least ten seconds. For children, the warnings should include graphics so they can better understand them. This, the stakeholder said, would ensure that players are forced to process the warning instead of blindly clicking on “I agree”.
+
+Questions on independence of self-regulatory bodies
+
+Under the proposed amendments, each online gaming intermediary is required to register with an industry-led self-regulatory body that must either be a section 8 company under the Companies Act, 2013 or a society under the Societies Registration Act, 1860. These bodies will have significant power over what is classified as an acceptable “online game” under the Rules and what is not.
+
+This raises questions about their independence, anti-competitive behaviour, and whether or not they would be truly invested in making the online gaming space fair and safe for all.
+
+Multiple stakeholders raised concerns about whether self-regulatory bodies are the best way to regulate the industry given their composition and potential funding. The independence of these proposed bodies – which will be formed and led by the industry – was questioned repeatedly, Newslaundry was told.
+
+At the meeting, Dr Ranjana Kumari, director of the Centre for Social Research, cited the case of Facebook’s Oversight Board and how something similar could be set up by online gaming companies. And just like the Oversight Board, any self-regulatory body will need initial monetary help. CSR advises Meta, Twitter and Bumble about how to make social media safer for women. 
+
+In response, it is understood that Chandrasekhar said there will be no conflict within the self-regulatory bodies because of industry presence, and that the industry would not be allowed to hijack the bodies. He said uniform guidelines would be released for the self-regulatory bodies too.
+
+Chandrasekhar also jokingly said that when the government says it will regulate, people say it’s not the government’s area, and when the government proposes a self-regulatory body, people say it’s ineffective.
+
+The proposed Rules require that the IT ministry consider whether the self-regulatory body’s board of directors have any conflict of interest, among other parameters, while considering the body’s application for approval. Each body’s governing body is required to have at least one member each from the fields of online gaming, sports, entertainment, psychology, medicine, consumer education, and information communication technology.
+
+In addition, the self-regulatory bodies would be required to include a person representing online gamers on the board and at least one government-nominated member who specialises in public policy, public administration, law enforcement or public finance. 
+
+Update at 7.40 pm, Jan 12: The deadline for the consultation has been extended to January 25. This has been included in the report.
+
+subscription-appeal-image
+Support Independent Media
+The media must be free and fair, uninfluenced by corporate or state interests. That's why you, the public, need to pay to keep news free.
+
+
+Subscribe Now
+Also see
+
+Explained: All you need to know about the IT ministry’s draft rules to regulate online gaming
+
+Big money or insider trading: Inside the world of betting on cricket
+NL Digest
+A weekly guide to the best of our stories from our editors and reporters. Note: Skip if you're a subscriber. All subscribers get a weekly, subscriber-only newsletter by default.
+
+Type your email
+SIGN UP
+TAGS
+Online Gaming
+Comments
+
+Enter feedback / question / suggestion
+lock
+We take comments from subscribers only!  Subscribe now to post comments! 
+Already a subscriber?  Login
+
+Be the first one to comment
+
+You may also like
+‘Dire imposition on press freedom’: Global media group on ‘press blackouts’ in Punjab during Amritpal search
+Global media group condemns ‘press blackouts’ in Punjab during Amritpal search
+NL Team
+At India Ahead, content in rewind, and salaries paused despite continuing ads 
+At India Ahead, content in rewind, and salaries paused despite continuing ads
+Ashwine Kumar Singh
+BBC Punjabi’s account withheld in India ‘in response to legal demand’
+BBC Punjabi’s account withheld in India ‘in response to legal demand’
+NL Team
+About
+About Us
+NL Explained
+Meet the team
+Contact Us
+Careers
+Privacy Policy
+Terms of Services
+Subscription
+Subscribe
+Account Details
+NL Legal Fund
+Subscriber FAQ
+Paywall Stories
+Podcast Letters
+Student Subscription
+Noteworthy
+न्यूज़लॉन्ड्री हिन्दी
+Newsletters
+NL Store
+NL Recess
+NL Interviews
+The Media Rumble
+Books
+Follow
+rss
+apple podcast
+telegram
+linkedin
+spotify
+linkedin
+Download the Newslaundry app
+google play store button
+app store button
+© Newslaundry Media Private Limited. All Rights Reserved.
 Select amount
 ₹200
 ₹1000
