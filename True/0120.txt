@@ -1,0 +1,303 @@
+Moto E13 Review: Filling the Void | Gadgets 360
+Home
+Guide
+Auto
+News
+Reviews
+Features
+Videos
+Latest
+Reviews and First Looks
+Buying Guides
+Hindi
+Cryptocurrency
+Entertainment
+Events
+Features
+How Tos
+Shorts
+Sponsored
+TV Shows
+Podcasts
+Product Finder
+Mobiles
+Laptops
+TV
+Tablets
+Smart Watches
+Headphones
+Cameras
+Gaming Consoles
+Smart Bands
+Speakers
+Smart Speakers
+AC
+Games
+Refrigerator
+Air Cooler
+Air Purifier
+Washing Machine
+Inverter
+Compare
+Mobiles
+Laptops
+TV
+Tablets
+Smart Watches
+Headphones
+Cameras
+Gaming Consoles
+Smart Bands
+Speakers
+Smart Speakers
+AC
+Games
+Refrigerator
+Air Cooler
+Air Purifier
+Washing Machine
+Inverter
+Brands
+Recharge
+Broadband Plans
+DTH Recharge
+Mobile Recharge
+More
+Cryptocurrency Prices
+Digital Gold
+Gold Rate
+DEALS
+Amazon Sale
+Flipkart Sale
+Movies
+Web Series
+Service Centers
+Smart Home
+Finance
+Club360
+Community
+Silver Rate
+Opinions
+OPPO Find N2 Flip new
+Mobiles
+Telecom
+How To
+Gaming
+Entertainment
+Crypto
+Audio
+TV
+PC/Laptops
+Apps
+Tablets
+Science
+Wearables
+5G
+Shopping new By Croma
+हिंदी
+HomeMobilesMobiles ReviewsMoto E13 Review: Filling the Void
+Moto E13 Review: Filling the Void
+The Moto E13 is currently the company’s most affordable smartphone in India.
+Written by Pranav Hegde, Edited by Roydon Cerejo |
+Updated: 7 March 2023 13:43 IST
+The Moto E13 in its Aurora Green colour option.
+Highlights
+The Moto E13 has a starting price of Rs. 6,999 in India
+The handset runs Android 13 (Go Edition)
+It features a 5,000mAh battery
+Smartphones keep getting more expensive every year and there's no stopping it. With the increasing cost of components, coupled with most big brands focusing more on premium smartphones, there is a void in the entry-level segment in India. Motorola, which had a busy 2022 launching several G-series and E-series phones in India, is trying to fill that void with the launch of the Moto E13.The Moto E13 is the company's most affordable phone to date in India. It aims at getting the basics right while still offering a budget-friendly price. Should the Moto E13 be considered if your budget is under Rs. 10,000? Here is our review to help you decide.Moto E13 price in IndiaThe Moto E13 has been launched in India with 2GB of RAM and 64GB of storage, which is priced at Rs. 6,999. There is also a 4GB RAM and 64GB storage option, which is priced at Rs. 7,999. Motorola sent us the latter variant for this review. Moto E13 design and displayThe Moto E13 follows the flat-frame design trend that most smartphones tend to sport these days. The frame, like the curved rear panel, is made of plastic. Motorola has tried giving the phone a premium look with a gradient frosted finish, which is something I really liked. I have the Aurora Green colour but if you want a more classic look, there's Cosmic Black and Creamy White colour options as well.The phone is also quite light in the hand at under 180g. It is not the slimmest phone out there but at 8.47mm, I would not complain. This thickness also means there's room for a 3.5mm headphone jack at the top edge and a big battery.On the front, the Moto E13 sports a 6.5-inch IPS LCD display with a HD+ (1600 x 720 pixels) resolution and a 60Hz refresh rate, which is fairly standard for smartphones in this price range. The screen brightness should not be a problem when using the phone indoors, however it needs to be maxed out when using it outdoors and under sunlight. Thankfully, the ambient light sensor does a fairly good job of automatically adjusting the brightness as needed.The colours reproduced by the Moto E13's display are obviously not as rich or vivid as you would experience on AMOLED panels, but it's serviceable. The device also has a WideVine L3 certification for SD video playback from streaming apps such as Netflix. There is a single bottom-firing speaker, which is fairly loud. Considering that the phone is targeted at buyers who are either first-time smartphone users or former feature phone users, the E13 should be good enough for basic multimedia consumption.The Moto E13's chin bezel is quite thick The Moto E13 has an IP52 rating for basic splash resistance against water and dust. There is no fingerprint scanner, which is something that can be found in alternatives like the Redmi A1+.Moto E13 specifications and softwareThe Moto E13 draws power from a UniSoc T606 chipset. The 12nm SoC is paired with up to 4GB of RAM, but lacks support for 5G networks. There is a 5,000mAh battery with support for 10W charging via a USB Type-C port. The phone offers connectivity features such as Bluetooth 5.0, dual-band Wi-Fi, FM radio, 3.5mm headphone jack, and a dual-SIM tray. There is a slot for a microSD card, which can expand the internal storage up to 1TB.There is a 3.5mm headphone jack at the top of the Moto E13 In terms of software, the Moto E13 runs on Android 13 (Go Edition) out of the box. There is the MyUx skin on top of Android. Motorola is known to offer a clean software experience with MyUx, which adds enough customisation and personalisation options. There is support for a couple of Moto gestures for flash and screenshots.The phone does not offer the full suite of options that you get in other Motorola handsets that run the standard version of Android but the important privacy-centric features provided by Google in Android 13 are available. You get visual indicators for camera and microphone indicator at the top right are of the display, whenever an app uses them. You're also alerted when an app is using the location in the background.The Moto E13 does come with a few third-party apps preinstalled such as ShareChat and Moj, which is something not commonly seen in other Motorola phones. You can uninstall these apps if you wish.Moto E13 performance and battery lifeWhen it comes to handling day-to-day tasks, the Moto E13 does a good job. The 4GB version that we tested had no trouble switching between apps or loading them quickly. The phone could handle routine tasks too quite well. There were a few instances when apps would take a second or two extra to load, and  I did notice some stutter across the UI, especially when going back to the home screen. My guess is that the 2GB RAM variant would probably not offer the smoothest experience, so if you are thinking of getting this phone, you should ideally consider the 4GB variant. While the Moto E13 is not targeted at gamers, I did try Call of Duty: Mobile and Subway Surfers on the phone. While the latter game was quite easy and smooth to play, Call of Duty: Mobile struggled to run well, as expected. To be fair, the phone is not designed to run this sort of game at all.The Moto E13 runs Android 13 (Go Edition) out of the box I performed a few benchmark tests as well. The Moto E13 scored 1,82,498 points on AnTuTu, and in Geekbench 6, the device scored 376 and 1,354 points in the single-core and multi-core tests. Battery life is also quite decent on the Moto E13. The phone can last a day easily on a full charge. In our HD video battery loop test, the phone lasted for 15 hours and 54 minutes. The E13 takes about a couple of hours to charge fully from empty using the 10W charger. Moto E13 camerasThe Moto E13 has a 13-megapixel single rear camera sensor with an LED flash on the back. For selfies, the waterdrop notch in the display has a 5-megapixel front camera. The rear camera is a hit or miss when it comes to getting a decent image. At times, it overexposed the highlights or crushed the shadows while trying to expose the subject well. When it does get the colours right, the highlights are sort of blown out.Night mode is available only in the 4GB RAM variant of the Moto E13 and it does a decent job when it comes to overall exposure. However, the details are soft and there is noticeable noise in the shadows.The Moto E13 has a single rear camera It's the same case with the front camera, which has even worse dynamic range. Edge detection works well in most cases and the blur looks fairly natural too. But then again, considering the price, the phone's camera performance is acceptable.Shot on Moto E13's rear cameraShot on the Moto E13's front camera In terms of video, the Moto E13 can shoot 1080p 30fps videos using the front and rear cameras. The overall video performance is just average. The camera exposes the subject well but the dynamic range performance is poor.VerdictThe Moto E13 aims at getting the basics right. It has a fairly big display, an ergonomic design, and a big battery. The inclusion of dual-band Wi-Fi and a USB Type-C port at this price are a plus. The phone's performance unit is also quite good for the price, especially when other devices with the same SoC are priced higher by at least Rs. 1,000. To top it all off, you also get the latest Android 13 software, even if it is the trimmed down version. Camera performance could have been better though.For someone who wants a budget smartphone under Rs. 8,000 that does all the basic tasks and offers a clean, near-stock Android experience, the Moto E13 can be considered. From smartphones with rollable displays or liquid cooling, to compact AR glasses and handsets that can be repaired easily by their owners, we discuss the best devices we've seen at MWC 2023 on Orbital, the Gadgets 360 podcast. Orbital is available on Spotify, Gaana, JioSaavn, Google Podcasts, Apple Podcasts, Amazon Music and wherever you get your podcasts.Affiliate links may be automatically generated - see our ethics statement for details.
+Moto E13REVIEWKEY SPECSNEWSDesignDisplaySoftwarePerformanceBattery LifeCameraValue for MoneyGoodErgonomic design, IP52 rating
+Decent performance (4GB variant)
+Big battery, USB Type-C port
+Dual-band Wi-Fi is a bonus
+Good software featuresBadWeak camera performance
+Average quality displayRead detailed
+Motorola Moto E13 reviewDisplay 6.50-inchProcessor Unisoc T606Front Camera 5-megapixel Rear Camera 13-megapixel RAM 2GB, 4GBStorage 64GBBattery Capacity 5,000mAhOS Android 13 Go EditionResolution 720x1,600 pixelsMoto E13 Review: Filling the VoidMoto E13 With Unisoc T606 SoC, 6.5-Inch IPS Display Launched in India: Price, SpecificationsMoto E13 Price in India Tipped Ahead of Launch, Could Be Under Rs. 7,000Moto E13 India Launch Date Set for February 8, Specifications Teased Ahead of DebutMore
+Motorola mobilesMotorola mobiles price in India
+Comments
+For the latest tech news and reviews, follow Gadgets 360 on Twitter, Facebook, and Google News. For the latest videos on gadgets and tech, subscribe to our YouTube channel.
+Further reading:
+Motorola,
+Moto E13,
+Moto E13 Price,
+Moto E13 price in India,
+Moto E13 specifications
+Pranav Hegde
+Email Pranav Hegde
+Pranav Hegde writes about everything tech. He is a part of the Reviews team at Gadgets 360 and writes majorly about smartphones. Pranav has been a part of the industry for four years now. Other than writing about consumer tech, Pranav is also passionate about photography and enjoys bike rides to picturesque locations. He is available on Twitter as @PranavHegdeHere and on email at pranavh@ndtv.com.
+More
+'Need a Complete Rewrite,' Elon Musk Says After Twitter Fixes Second Outage in a Week
+Twitter's EU Privacy Regulator Concerned Over Blue Tick Verification Rollout
+Related Stories
+Best Mobile Phones Under Rs. 40,000 in India
+31 March 2023
+The Best Phones Under Rs. 25,000 in India
+31 March 2023
+Moto G Stylus 5G (2023) Renders Leaked, Tipped to Come in Two Colourways: Report
+30 March 2023
+Moto G13 With 50-Megapixel Camera, 5,000mAh Battery Launched in India: Price, Specifications
+29 March 2023
+Motorola Edge 40 Pro Tipped to Cost More Than Edge 30 Pro; Key Specifications Leaked
+28 March 2023
+Moto E13 Review: Filling the Void
+Comment
+Share on Facebook
+Tweet
+Snapchat
+Share
+Reddit
+Email
+Comment
+Google News
+Advertisement
+Follow Us
+Latest Videos
+01:45
+Two-factor Authentication: Here’s How You Can Secure Your Twitter Account for Free
+02:14
+Handy Tips to Save Your Mobile Data
+03:30
+Infinix Smart 7 First Impressions: A Smart Looker!
+02:27
+Useful Smartphone Apps to Boost Productivity
+21:23
+OnePlus 11R: Back With a Bang
+More Videos
+Tech News in Hindi
+Redmi Note 12 5G का नया वेरिएंट भारत में लॉन्च, 21,999 रुपये का प्राइस
+Acer W Series 4K OLED Smart TV 55, 65 इंच डिस्प्ले के साथ लॉन्च
+50MP कैमरा, 5000mAh बैटरी के साथ आएगा सैमसंग गैलेक्सी A24 4G, डिटेल्स लीक
+Avatar: The Way of Water हुई OTT पर रिलीज, लेकिन खुश होने से पहले जान ले यह जरूरी बात
+Redmi Note 12 Turbo की सेल ने तोड़े रिकॉर्ड! 2.5 घंटे में बिका फोन! 16GB रैम, 5000mAh बैटरी से है लैस
+More Technology News in Hindi
+Advertisement
+Popular on Gadgets
+ChatGPT 4
+Call of Duty
+Xiaomi Mi Pad
+Microsoft
+Air Conditioner
+Refrigerator
+Inverter
+Air Cooler
+OnePlus Nord CE 2 Lite 5G
+Realme 6i
+OnePlus Nord 2T 5G
+iQOO Z6 Lite 5G
+Oppo A78 5G
+Samsung Phones
+Oppo Phones
+Xiaomi Phones
+iPhones
+Gionee F3 Pro
+Bitcoin
+Galaxy 'S10'
+Airtel Plans
+Google Pixel 6
+Meta
+MIUI 14
+Tecno Spark 10 Pro
+Netflix Games
+Am I Next
+Latest Mobile Phones
+Compare Phones
+Latest Gadgets
+Oppo A1x 5G
+Redmi Note 12 Turbo
+Tecno Spark 10 5G
+Honor Play 7T
+OnePlus Nord CE 3 Lite 5G
+Redmi A2
+Redmi A2+
+Redmi Note 12 4G
+Acer Nitro 5 (2023)
+Samsung Galaxy Book 3 Pro
+Huawei MatePad 11 (2023)
+Oppo Pad 2
+Huawei Watch Ultimate
+Gizmore Vogue
+Redmi Smart Fire TV 32
+OnePlus TV 55 Y1S Pro (55UD2A00)
+Nintendo Switch (OLED Model)
+Microsoft Xbox Series S
+Panasonic 1 Ton 5 Star Inverter Split AC (CS/CU-NU12YKY5W)
+Panasonic 2 Ton 3 Star Inverter Split AC (CS/CU-KZ24ZKYF)
+Popular Mobile Brands
+Apple
+Asus
+Black Shark
+Blu
+Coolpad
+Gionee
+Google
+Honor
+Huawei
+Infinix
+iQOO
+Itel
+Lava
+Lenovo
+Meizu
+Micromax
+Motorola
+Nokia
+Nubia
+OnePlus
+Oppo
+Poco
+Realme
+Redmi
+Samsung
+Sharp
+Sony
+TCL
+Tecno
+Xiaomi
+ZTE
+#Trending Stories
+Redmi Note 12 5G Now Available in India in This Storage Option
+WhatsApp Keyboard Shortcuts for Desktop App, WhatsApp Web Users: Full List
+A New Google TV Remote Is Replacing Android TV Remote App
+Google May Pay Apple $15 Billion to Remain Default Search Engine on Safari
+Indians Can Now Receive Money via Google Pay From US
+General Motors Plans to Phase Out Apple CarPlay, Android Auto in Future EVs
+Formula 1 Australian Grand Prix 2023: Timings in India, How to Watch
+Eternals: 2 Post-Credits Scenes, Explained
+Avatar 2 Leaked on Torrents Ahead of Release in India
+New Avatar Animated Series Focused on Earth Avatar in Development: Report
+#Latest Stories
+Telecom Subscriber Base Rise Marginally to 1,170.75 Million in Jan 2023: TRAI
+General Motors Plans to Replace Apple CarPlay, Android Auto With Google's Infotainment System in Future EVs
+US Chipmaker Micron's Products to Be Examined in China for Cybersecurity Risks
+TerraUSD Founder Do Kwon Indicted in US Following Montenegro Arrest
+Apple Wins Against British Antitrust Regulator's Decision to Investigate Its Mobile Browser
+ChatGPT Provisionally Banned in Italy as It Is Being Probed Over Privacy Concerns
+Tecno Phantom V Fold India Production Begins; Company Confirms Launch Date, Sale Price
+DigiYatra Facility Rolls Out at Kolkata Airport for Check-Ins Through Facial Recognition
+UIDAI Records Over 1 Crore Mobile Numbers Linked With Aadhaar in February
+Samsung Said to Be Planning to Set First Chip Test Line in Japan for Advanced Chip Packaging
+About Us
+Sitemaps
+Feedback
+Archives
+Contact Us
+RSS
+Advertise
+Career
+Privacy Policy
+Ethics
+Editorial Policy
+Terms & Conditions
+Complaint Redressal
+Gadgets 360 is available in
+English
+Hindi
+Follow Us
+Facebook
+Twitter
+Youtube
+Podcasts
+Rss
+Download Our Apps
+Available in Hindi
+© Copyright Red Pixels Ventures Limited 2023. All rights reserved.

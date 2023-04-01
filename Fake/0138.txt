@@ -1,0 +1,179 @@
+AI tool comes as a boon, enhances space exploration by removing Earth's atmospheric 'blur' | Space
+View in Hindi:
+View in Bangla:
+LIVE TV
+The Debate
+India News
+Politics News
+Karnataka Elections 2023
+IPL 2023
+Web Stories
+Sports News
+World News
+Education News
+Entertainment News
+Science News
+R. Originals
+Initiatives
+Technology News
+Business News
+Lifestyle
+Opinion
+Nation Wants To Know
+View in Hindi:
+View in Bangla:
+LIVE TV
+The Debate
+India News
+Karnataka Elections 2023
+Politics News
+IPL 2023
+Web Stories
+Sports News
+World News
+Education News
+Entertainment News
+Science News
+R. Originals
+Initiatives
+Technology News
+Business News
+Lifestyle
+Opinion
+Nation Wants To Know
+SEARCH
+Quick links:
+The Debate
+Nation Wants To Know
+Arnab Goswami
+Major Gaurav Arya
+Lifestyle
+India News
+World News
+Trending News
+FOLLOW US
+India News
+Politics
+Economy
+Law & Order
+General News
+City News
+Accidents & Disasters
+World News
+US News
+UK News
+Pakistan News
+Lottery News
+China
+Europe
+Australia
+Rest Of The World News
+Africa
+Middle East
+Sports News
+IPL 2023
+Cricket News
+Football News
+Tennis News
+Badminton News
+Kabaddi News
+WWE News
+Basketball News
+Esports
+Hockey News
+Other Sports
+Entertainment News
+Bollywood News
+Hollywood News
+Television News
+Movie Reviews
+Music
+Others
+Regional Indian Cinema
+Web Series
+Rest Of The World
+What’s Viral
+Technology News
+Gadgets
+Mobile
+Apps
+Gaming
+E-commerce
+How To
+Science
+Other Tech News
+Social Media News
+Shows
+Nation Wants To Know
+Patriot
+Sunday Debate With Arnab
+Republic Originals
+Blitzkrieg
+Business News
+India Business
+International Business
+Elections
+Karnataka Elections 2023
+Clear Search
+NO RESULTS FOUND
+EXPLORE
+HABITS
+English News
+Science
+Space
+AI tool comes as a boon, enhances space exploration by removing Earth's atmospheric 'blur'
+Breaking News
+Last Updated: 31st March, 2023 21:34 IST
+AI Tool Comes As A Boon, Enhances Space Exploration By Removing Earth's Atmospheric 'blur'
+The blur, caused by the Earth's atmosphere through which the light coming from distant objects passes, becomes an issue when astrophysicists analyze images.
+Space
+| Written By
+Press Trust Of India
+The tool produced images with 38.6 per cent less error compared to classic methods; Image: NASA
+Scientists have adapted a well-known computer-vision algorithm, which works faster and produces more realistic images, and applied it to astronomical images from ground-based telescopes. This innovation of the researchers of Northwestern University, US, and Tsinghua University in Beijing, China, could help remove errors and solve the "blur" in astronomical images, they said. The research is published in the journal Monthly Notices of the Royal Astronomical Society.
+"Astronomical images are used for science. By cleaning up images in the right way, we can get more accurate data. The algorithm removes the atmosphere computationally, enabling physicists to obtain better scientific measurements.
+"At the end of the day, the images do look better as well," said Northwestern's Emma Alexander, the study's senior author. The blur, caused by the Earth's atmosphere through which the light coming from distant objects passes, becomes an issue when astrophysicists analyze images to extract cosmological data.READ | Vatican: Pope spends 2nd night ''serenely'' in hospital
+Studying the apparent shapes of galaxies helps astronomers in detecting large-scale cosmological structures' gravitational effects. However, the atmospheric blur smears the image in a way that can distort the shapes of galaxies and make them appear rounder or more stretched than they are. Removing the blur enables scientists to collect accurate shape data.READ | CSK vs GT: Kane Williamson brilliant effort saves six but likely ends his IPL 2023 season
+"If you look at an image from a ground-based telescope, a shape might be warped. It's hard to know if that's because of a gravitational effect or the atmosphere," said Alexander.READ | Bengal govt was mute spectator when 'Ram bhakts' were attacked: Union Minister Anurag Thakur
+To tackle this challenge, Alexander's team combined an optimization algorithm with a deep-learning network trained on astronomical images, that included simulated data matching Vera C. Rubin Observatory's (currently under construction in Chile) expected imaging parameters. The resulting tool produced images with 38.6 per cent less error compared to classic methods for removing blur and 7.4 per cent less error compared to modern methods.READ | Woman sets hut on fire, tries self-immolation, during anti-encroachment bid in UP's Unnao
+"Now we pass off this tool, putting it into the hands of astronomy experts," Alexander said. "We think this could be a valuable resource for sky surveys to obtain the most realistic data possible." For astronomers interested in using the tool, the open-source, user-friendly code and accompanying tutorials are available online.
+First Published:
+31st March, 2023 21:34		IST
+COMMENT
+SUBSCRIBE TO US
+WATCH US LIVE
+LIVE TV
+FOLLOW US
+WORLD
+IPL 2023
+Karnataka Elections 2023
+The Debate
+Business News
+Entertainment News
+Cricket News
+Sports News
+World News
+India News
+Technology News
+Politics News
+Science News
+Shows
+Nation Wants To Know
+About Us
+Advertise
+Careers
+Intern With Us
+Grievance Redressal
+Contact Us
+LATEST NEWS
+LIVE
+India News LIVE: Bengal BJP seeks NIA probe; Internet suspended in three district
+Howrah violence: Amit Shah takes stock of situation, dials West Bengal Governor, BJP chief
+CSK vs GT: MS Dhoni hits mammoth six on return to cricket, crowd goes berserk- WATCH
+Sachin Tendulkar, Yuvraj Singh, Jasprit Bumrah: Cricketers snapped at NMACC event
+FOLLOW US
+DOWNLOAD THE APP
+© 2023 Republic. All rights reserved.
+Terms and Conditions
+Privacy Policy
+Complaint
